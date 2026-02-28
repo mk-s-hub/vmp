@@ -4,3 +4,4 @@ int main()
 int m='mk';
 printf({m})
 }
+erripuka
